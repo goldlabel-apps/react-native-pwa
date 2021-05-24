@@ -1,16 +1,12 @@
 {
 	"name": "react-native-pwa",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "React Native combines the best parts of native development with React",
 	"repository": "https://github.com/listingslab-software/listingslab",
 	"author": "listingslab <listingslab@gmail.com>",
 	"license": "MIT",
 	"scripts": {
 		"setup": "$PWD/unix/setup",
-		"dev:pwa": "$PWD/unix/dev react/pwa",
-		"build:pwa": "$PWD/unix/build react/pwa",
-		"dev:wp-admin": "$PWD/unix/dev react/wp-admin",
-		"build:wp-admin": "$PWD/unix/build react/wp-admin",
 		"git": "$PWD/unix/git"
 	}
 }
